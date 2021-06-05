@@ -1,2 +1,2 @@
-# Musicbot
-Music fix by JohnDavid
+# Invite-tracker
+Invite-tracker by JohnDavid
